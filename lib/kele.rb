@@ -1,4 +1,5 @@
 require "httparty"
+require "kele/errors"
 
 
 class Kele
